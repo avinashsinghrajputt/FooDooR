@@ -1,0 +1,18 @@
+.header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+}
+.header_logo{
+    height: 27px;
+    max-width: 140px;
+    margin-right: 24px;
+}
+.header-left{
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+    height: 72px;
+}
