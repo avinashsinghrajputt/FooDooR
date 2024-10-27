@@ -9,7 +9,7 @@ const Header = () => {
         alt="EatExpress"
         className="header_logo"
         />
-        <div className="header_left">
+        <div className="header_right">
             <div className="header-location-search-container">
                 <div className="location-wrapper">
                     <div className="location-icon-name">
